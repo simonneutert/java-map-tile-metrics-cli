@@ -5,11 +5,9 @@ It is a tool for generating metrics for map tiles or points in a (positive) coor
 
 Please read in details about the library in the [Map Tile Metrics library README](https://github.com/simonneutert/java-map-tile-metrics).
 
-Java 21 or higher is required to run the CLI.
-
 ## Using the CLI
 
-The CLI is a Java application that can be run from the command line. It requires Java 17 or higher.
+The CLI is a Java application that can be run from the command line. It requires Java 21 or higher.
 
 ### Build
 
