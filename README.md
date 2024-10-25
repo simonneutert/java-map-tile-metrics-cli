@@ -62,3 +62,6 @@ In words: An array of objects, each with an `x` and `y` property.
 
 The CLI will write the metrics in `results/results.json`.
 
+## Developers
+
+[This way 👉](RELEASING.md) to release a new version of the CLI.
